@@ -9,7 +9,7 @@ De la constante de Planck à la structure du Cosmos, ce jeu est une simulation d
 
 ### 🕹️ Accès au Jeu (Démonstration)
 
-👉 **[Jouer à la démo Prima Lux](PNG_trees/monopoly/prima_lux_logic_obfuscated.html)**
+👉 **[Jouer à la démo Prima Lux]([/PNG_trees/monopoly/prima_lux_logic_obfuscated.html])**
 
 ### 📂 Organisation du Dépôt
 
