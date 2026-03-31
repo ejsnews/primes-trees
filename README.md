@@ -50,5 +50,4 @@ Tout usage commercial requiert un accord préalable écrit / *Commercial use req
 ---
 
 *Contact :* **ejsnews@gmail.com**
-> *"Dans les nombres premiers se cachent les lois divines du Codex et de la première lumière."*
-> *"Dans les récurrences se cachent les lois les plus subtiles de la nature."*
+> *"Dans les nombres premiers se cachent les lois divines du Codex et de la première lumière, tandis que dans les récurrences se cachent les lois les plus subtiles de la nature."*
