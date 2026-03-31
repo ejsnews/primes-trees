@@ -32,3 +32,23 @@ Les jeux (Monopoly Quantique, Tarot Divinatoire, jeu RPG, etc.) s'appuient compl
 L’intégralité des formules mathématiques, algorithmes et versions sources de la théorie sont conservées dans un dépôt privé horodaté. Les 50 étapes de création et l’historique complet sont protégés par horodatage officiel.
 
 Les concepts de **Monopoly Quantique**, **Tarot Divinatoire** et les fichiers STL 3D sont protégés par l’horodatage de ce dépôt public et de son dépôt privé associé.
+
+---
+
+## Intellectual Property / Propriété intellectuelle
+
+**© 2026 Eric Jacob Simon — All Rights Reserved.**
+
+**Licence : CC BY-NC 4.0**
+
+* **FR :** Usage scientifique et privé non commercial libre avec attribution obligatoire de l'auteur (**Eric Jacob Simon**). Toute exploitation commerciale (jeux, logiciels, publications, fichiers STL, etc.) est soumise à un accord préalable écrit et donnera lieu à une négociation de royalties.
+* **EN :** Free non-commercial scientific and private use with mandatory attribution to the author (**Eric Jacob Simon**). Any commercial use (video games, software, publications, STL files, etc.) requires prior written agreement and will be subject to royalty negotiations.
+
+*Pour toute demande, contactez l'auteur via ce profil GitHub / For any inquiries, contact the author via this GitHub profile.*
+Tout usage commercial requiert un accord préalable écrit / *Commercial use requires prior written agreement.*
+
+---
+
+*Contact :* **ejsnews@gmail.com**
+> *"Dans les nombres premiers se cachent les lois divines du Codex et de la première lumière."*
+> *"Dans les récurrences se cachent les lois les plus subtiles de la nature."*
