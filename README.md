@@ -1,24 +1,32 @@
 # 📐 PRIMA LUX - Codex 0-0
 
-**Propriété Intellectuelle — [Eric Jacob Simon / EJSNews] — 2026**
+**Propriété Intellectuelle — Eric Jacob Simon / EJSNews — 2026**
 
-### 🌳 Le Concept : La Forêt Mathématique
+### 🌳 La Forêt Mathématique
 
-Ce projet est une émanation du Codex 0-0. Il montre comment la structure des nombres premiers peut générer des ersatz de matière bien avant l'atome.  
-De la constante de Planck à la structure du Cosmos, ce jeu est une simulation de la substitution mathématique à la divinité.
+Ce projet est l’émanation visible du **Codex 0-0**.
 
-### 🕹️ Accès au Jeu (Démonstration)
+Au cœur se trouve une **théorie mathématique inédite** : des formules permettant de générer des **séquences infinies de nombres premiers** organisées selon une **architecture fractale de forêts et d’arbres**.
 
-👉 👉 **[Jouer à la démo Prima Lux](PNG_trees/monopoly/prima_lux_logic_obfuscated.html)**
+Ces structures mathématiques produisent des ersatz de matière bien avant l’atome, reliant la constante de Planck à l’organisation du cosmos entier. Elles constituent une **substitution formelle à la notion de divinité** par la pure logique des nombres premiers.
 
-### 📂 Organisation du Dépôt
+Les jeux (Monopoly Quantique, Tarot Divinatoire des Nombres Premiers, etc.) ne sont que **des pistes de monétisation** de cette théorie fondamentale.
 
-- `README.md` : Interface de présentation de la théorie des nombres premiers et des jeux en découlant
--  Le jeu du monopoly Quantique PRIMALUX est une version obfusquée pour une protection superficielle des algorithmes (But réel protection du droit d'auteur).
-- `/PNG_trees` : Bibliothèque d'images de la forêt d'arbres et plantes à nombres premiers, images des cartes et ersatz (Codex) de jeux.
-- `prima_lux_logic.json` : Base de données du moteur de jeu tirée de la base de données majeure et non disponible relative a la théorie des nombres premiers. Généré par `prima_lux_logic.py`.
-- `/.archives` : Historique des 34 étapes de création (Preuve de paternité).
+### 🕹️ Démonstration jouable
+
+👉 **[Jouer à la démo Prima Lux](PNG_trees/monopoly/prima_lux_logic_obfuscated.html)**  
+*(Prototype V1 – version obfusquée)*
+
+### 📂 Organisation du dépôt
+
+- `index.html` → Page d’accueil et présentation  
+- `/PNG_trees` → Bibliothèque complète des cartes, arbres et ersatz visuels du Codex  
+- `prima_lux_logic.json` → Base de données du moteur de jeu (générée à partir de la base majeure non publique)  
+- `prima_lux_logic.py` → Script de génération du json pour les jeux  
 
 ---
 
-*Note : Les concepts de Monopoly Quantique, Tarot Divinatoire des Nombres Premiers et les fichiers STL pour impression 3D sont protégés par l'horodatage de ce dépôt.*
+**Note importante**  
+L’intégralité des formules mathématiques, algorithmes et versions sources de la théorie sont conservées dans un dépôt privé horodaté. Les 50 étapes de création et l’historique complet sont protégés par horodatage officiel.
+
+Les concepts de **Monopoly Quantique**, **Tarot Divinatoire des Nombres Premiers** et les fichiers STL 3D sont protégés par l’horodatage de ce dépôt public et de son dépôt privé associé.
