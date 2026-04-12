@@ -48,12 +48,15 @@ These mathematical architectures produce ersatz matter well before the atomic le
 
 **EN :** This repository is the visible manifestation of an unpublished mathematical **Codex**. It is not a mere sequence of numbers, but an architecture of **complex linear recurrences** generating **fractal forests** of prime numbers. These structures produce ersatz matter well before the atomic level.
 
+[The Codex/Atlas of the Biomathematical Forest](https://ejsnews.github.io/primes-trees/Quantum%20Codex%20-%20Some%20Biomathematical%20Plants%20and%20Trees)
+
 The EJS Codex proposes that reality is a succession of **coherence levels**:
 1. **The Multi-Scale "Soup" :** The pattern of a "soup" (a homogeneous and informational fluid ordered by the Codex) is recursive. It repeats from the Planck scale ($10^{-36}$ m) up to galactic scales ($10^{21}$ m), where clusters themselves form a fluid soup.
 2. **Bounded Laws and Decoherence :** Current physical laws are **bounded** to our local observation window (approx. $10^{-12}$ to $10^{10}$ m). Beyond these bounds, **fractal decoherence** occurs: the system shifts to another level of properties within the universal cycle of the "Carousel of the Absolute."
 
 
 **Cosmic Monopoly**
+
 The Cosmic Monopoly Codex (The game) offers a formal substitution of the notion of divinity by the pure logic of prime numbers: fusion, order and organization are considered *good*, while fission, destruction and disorder are *evil*.
 
 ### 🕹️ Démonstration jouable / Playable Demonstration
