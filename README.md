@@ -24,6 +24,21 @@ Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Au
 
 Ces architectures produisent des ersatz de matière bien avant le niveau atomique, reliant l’échelle de Planck à l’organisation du cosmos entier.  
 
+---
+
+## 🌳 La Forêt Mathématique et le Concept de la "Soupe"
+
+**FR :** Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Il ne s'agit pas d'une simple suite de chiffres, mais d'une architecture de **récurrences linéaires complexes** générant des **forêts fractales** de nombres premiers. Ces structures produisent des ersatz de matière bien avant le niveau atomique.
+
+[Le Codex/Atlas de la forêt biomathématique ](https://ejsnews.github.io/primes-trees/Quantum%20Codex%20-%20Some%20Biomathematical%20Plants%20and%20Trees)
+
+Selon le Codex EJS, la réalité est une succession de **niveaux de cohérence** :
+
+1. **La Soupe Multi-Échelle :** Le motif de la "soupe" (fluide homogène et informationnel ordonné par le Codex) est récursif. Il se répète de l'échelle de Planck ($10^{-36}$ m) jusqu'aux échelles galactiques ($10^{21}$ m), où les amas forment à leur tour une soupe fluide.
+2. **Lois Bornées et Décohérence :** Nos lois physiques actuelles sont **bornées** à notre fenêtre d'observation locale (environ $10^{-12}$ à $10^{10}$ m). Au-delà, une **décohérence fractale** apparaît : le système change de palier de propriété dans le cycle universel du "Manège de l'Absolu".
+
+
+**Monopoly Cosmique**
 Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
 
 **EN :**  
@@ -31,6 +46,14 @@ This repository is the visible emanation of an unpublished mathematical **Codex*
 
 These mathematical architectures produce ersatz matter well before the atomic level, linking the Planck scale to the organization of the entire cosmos.  
 
+**EN :** This repository is the visible manifestation of an unpublished mathematical **Codex**. It is not a mere sequence of numbers, but an architecture of **complex linear recurrences** generating **fractal forests** of prime numbers. These structures produce ersatz matter well before the atomic level.
+
+The EJS Codex proposes that reality is a succession of **coherence levels**:
+1. **The Multi-Scale "Soup" :** The pattern of a "soup" (a homogeneous and informational fluid ordered by the Codex) is recursive. It repeats from the Planck scale ($10^{-36}$ m) up to galactic scales ($10^{21}$ m), where clusters themselves form a fluid soup.
+2. **Bounded Laws and Decoherence :** Current physical laws are **bounded** to our local observation window (approx. $10^{-12}$ to $10^{10}$ m). Beyond these bounds, **fractal decoherence** occurs: the system shifts to another level of properties within the universal cycle of the "Carousel of the Absolute."
+
+
+**Cosmic Monopoly**
 The Cosmic Monopoly Codex (The game) offers a formal substitution of the notion of divinity by the pure logic of prime numbers: fusion, order and organization are considered *good*, while fission, destruction and disorder are *evil*.
 
 ### 🕹️ Démonstration jouable / Playable Demonstration
