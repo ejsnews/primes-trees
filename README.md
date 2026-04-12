@@ -95,9 +95,9 @@ The Cosmic Monopoly Codex (The game) offers a formal substitution of the notion 
 
 **Licence :** CC BY-NC 4.0
 
-**FR :** Usage scientifique et privé non commercial libre avec attribution obligatoire de l’auteur (**Eric Jacob Simon**). Toute exploitation commerciale nécessite un accord préalable écrit et donnera lieu à une négociation de royalties.
+**FR :** Usage scientifique et privé non commercial libre avec attribution obligatoire de l’auteur (**Eric Jacob - EJS**). Toute exploitation commerciale nécessite un accord préalable écrit et donnera lieu à une négociation de royalties.
 
-**EN :** Free non-commercial scientific and private use with mandatory attribution to the author (**Eric Jacob Simon**). Any commercial use requires prior written agreement and will be subject to royalty negotiations.
+**EN :** Free non-commercial scientific and private use with mandatory attribution to the author (**Eric Jacob - EJS**). Any commercial use requires prior written agreement and will be subject to royalty negotiations.
 
 **Contact :** ejsnews@gmail.com
 
