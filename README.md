@@ -13,8 +13,8 @@
 
 ## 📐 PRIMA LUX - Codex EJS
 
-**Propriété Intellectuelle — Eric Jacob Simon (EJSNews) — 2026**  
-**Intellectual Property — Eric Jacob Simon (EJSNews) — 2026**
+**Propriété Intellectuelle — Eric Jacob (EJSNews) — 2026**  
+**Intellectual Property — Eric Jacob (EJSNews) — 2026**
 
 ### 🌳 La Forêt Mathématique de nombres premiers  
 ### 🌳 The Mathematical Forest of Prime Numbers
@@ -24,14 +24,14 @@ Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Au
 
 Ces architectures produisent des ersatz de matière bien avant le niveau atomique, reliant l’échelle de Planck à l’organisation du cosmos entier.  
 
-Le Codex propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
+Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
 
 **EN :**  
 This repository is the visible emanation of an unpublished mathematical **Codex**. At its core lies a unifying theory that generates **infinite sequences of prime numbers** organized into **branches**, themselves structured into **fractal forests**.  
 
 These mathematical architectures produce ersatz matter well before the atomic level, linking the Planck scale to the organization of the entire cosmos.  
 
-The Codex offers a formal substitution of the notion of divinity by the pure logic of prime numbers: fusion, order and organization are considered *good*, while fission, destruction and disorder are *evil*.
+The Cosmic Monopoly Codex (The game) offers a formal substitution of the notion of divinity by the pure logic of prime numbers: fusion, order and organization are considered *good*, while fission, destruction and disorder are *evil*.
 
 ### 🕹️ Démonstration jouable / Playable Demonstration
 
@@ -65,7 +65,7 @@ The Codex offers a formal substitution of the notion of divinity by the pure log
 
 ## Intellectual Property / Propriété Intellectuelle
 
-**© 2026 Eric Jacob Simon — All Rights Reserved**
+**© 2026 Eric Jacob — All Rights Reserved**
 
 **Licence :** CC BY-NC 4.0
 
