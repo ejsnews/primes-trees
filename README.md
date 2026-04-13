@@ -61,9 +61,9 @@ The Cosmic Monopoly Codex (The game) offers a formal substitution of the notion 
 
 ### 🕹️ Démonstration jouable / Playable Demonstration
 
-**FR :** 👉 **[Jouer à la démo Prima Lux](PNG_trees/monopoly/prima_lux_logic_obfuscated.html)** *(Prototype V1 – version obfusquée)*
+**FR :** 👉 **[Jouer à la démo Prima Lux](PNG_trees/monopoly/prima_lux_logic.html)**
 
-**EN :** 👉 **[Play Prima Lux Demo](PNG_trees/monopoly/prima_lux_logic_obfuscated.html)** *(Prototype V1 – obfuscated version)*
+**EN :** 👉 **[Play Prima Lux Demo](PNG_trees/monopoly/prima_lux_logic.html)**
 
 ### 📂 Organisation du dépôt / Repository Structure
 
