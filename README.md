@@ -46,7 +46,7 @@ According to the EJS Codex, reality is a succession of **levels of coherence**:
 
 1. **The Multi-Scale Soup:** The "soup" pattern (a homogeneous, informational fluid ordered by the Codex) is recursive. It repeats from the Planck scale ($10^{-36}$ m) to galactic scales ($10^{21}$ m), where clusters in turn form a fluid soup.
 
-2. **Bounded Laws and Decoherence:** Our current physical laws are **bounded** to our local observational window (approximately  $10^{-12}$ à $10^{15}$ m). Beyond this, **fractal decoherence** appears: the system changes its property level in the universal cycle of the "Merry-Go-Round of the Absolute."
+2. **Bounded Laws and Decoherence:** Our current physical laws are **bounded** to our local observational window (approximately  $10^{-12}$ to $10^{15}$ m). Beyond this, **fractal decoherence** appears: the system changes its property level in the universal cycle of the "Merry-Go-Round of the Absolute."
 
 **Cosmic Monopoly**
 The Cosmic Monopoly Codex (The Game) proposes a formal substitution of the notion of divinity with the pure logic of prime numbers: fusion, order, and organization are *good*, while fission, destruction, and disorder are *evil*.
