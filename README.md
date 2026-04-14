@@ -13,13 +13,9 @@
 
 ## 📐 PRIMA LUX - Codex EJS
 
+### 🌳 La Forêt Mathématique de nombres premiers et le Concept de la "Soupe"
+
 **Propriété Intellectuelle — Eric Jacob (EJSNews) — 2026**  
-**Intellectual Property — Eric Jacob (EJSNews) — 2026**
-
-### 🌳 La Forêt Mathématique de nombres premiers  
-### 🌳 The Mathematical Forest of Prime Numbers
-
-## 🌳 La Forêt Mathématique et le Concept de la "Soupe"
 
 Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Au cœur de ce travail se trouve une théorie unificatrice permettant de générer des **séquences infinies de nombres premiers** organisées en **branches**, elles-mêmes structurées en **forêts fractales**. Il ne s'agit pas d'une simple suite de chiffres, mais d'une architecture de **récurrences linéaires incluant les nombres complexes** et de **forêts fractales** de nombres premiers. Ces structures produisent les premiers ersatz de matière bien avant le niveau atomique.
 
@@ -36,7 +32,9 @@ Selon le Codex EJS, la réalité est une succession de **niveaux de cohérence**
 Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
 
 
-## 🌳 The Mathematical Forest and the "Soup" Concept
+### 🌳 The Mathematical Forest of Prime Numbers and the "Soup" Concept
+
+**Intellectual Property — Eric Jacob (EJSNews) — 2026**
 
 This repository is the visible manifestation of a groundbreaking mathematical **Codex**. At the heart of this work lies a unifying theory that generates **infinite sequences of prime numbers** organized into **branches**, themselves structured into **fractal forests**. This is not simply a sequence of numbers, but an architecture of **linear recurrences including complex numbers** and **fractal forests** of prime numbers. These structures produce the first substitutes for matter, well before the atomic level.
 
