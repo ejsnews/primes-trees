@@ -19,7 +19,6 @@
 ### 🌳 La Forêt Mathématique de nombres premiers  
 ### 🌳 The Mathematical Forest of Prime Numbers
 
-**FR :**  
 ## 🌳 La Forêt Mathématique et le Concept de la "Soupe"
 
 Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Au cœur de ce travail se trouve une théorie unificatrice permettant de générer des **séquences infinies de nombres premiers** organisées en **branches**, elles-mêmes structurées en **forêts fractales**. Il ne s'agit pas d'une simple suite de chiffres, mais d'une architecture de **récurrences linéaires incluant les nombres complexes** et de **forêts fractales** de nombres premiers. Ces structures produisent les premiers ersatz de matière bien avant le niveau atomique.
@@ -36,7 +35,7 @@ Selon le Codex EJS, la réalité est une succession de **niveaux de cohérence**
 **Monopoly Cosmique**
 Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
 
-**EN:**
+
 ## 🌳 The Mathematical Forest and the "Soup" Concept
 
 This repository is the visible manifestation of a groundbreaking mathematical **Codex**. At the heart of this work lies a unifying theory that generates **infinite sequences of prime numbers** organized into **branches**, themselves structured into **fractal forests**. This is not simply a sequence of numbers, but an architecture of **linear recurrences including complex numbers** and **fractal forests** of prime numbers. These structures produce the first substitutes for matter, well before the atomic level.
@@ -62,17 +61,10 @@ The Cosmic Monopoly Codex (The Game) proposes a formal substitution of the notio
 
 ### 📂 Organisation du dépôt / Repository Structure
 
-**FR :**  
-- `index.html` → Page d’accueil et présentation  
-- `/PNG_trees` → Bibliothèque des cartes, arbres et ersatz visuels  
-- `prima_lux_logic.json` → Base de données du moteur de jeu  
-- `prima_lux_logic.py` → Script de génération du JSON  
-
-**EN :**  
-- `index.html` → Homepage and presentation  
-- `/PNG_trees` → Library of cards, trees and visual ersatz  
-- `prima_lux_logic.json` → Game engine database  
-- `prima_lux_logic.py` → JSON generation script  
+- `index.html` → Page d’accueil et présentation / Homepage and presentation  
+- `/PNG_trees` → Bibliothèque des cartes, arbres et ersatz visuels / Library of cards, trees and visual ersatz  
+- `prima_lux_logic.json` → Base de données du moteur de jeu / Game engine database  
+- `prima_lux_logic.py` → Script de génération du JSON / JSON generation script  
 
 ---
 
