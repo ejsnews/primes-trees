@@ -1,4 +1,9 @@
-# primes-trees
+---
+layout: default
+title: primes-trees
+description: "Forêt biomathématique et Prima Lux (Monopoly) — Eric Jacob EJS 2026"
+---
+## primes-trees
 
 **Part of the Codex EJS Project**
 
@@ -11,9 +16,9 @@
 
 ---
 
-## 📐 PRIMA LUX - Codex EJS
+### 📐 PRIMA LUX - Codex EJS
 
-### 🌳 La Forêt Mathématique de nombres premiers et le Concept de la "Soupe"
+#### 🌳 La Forêt Mathématique de nombres premiers et le Concept de la "Soupe"
 
 **Propriété Intellectuelle — Eric Jacob (EJSNews) — 2026**  
 
@@ -32,7 +37,7 @@ Selon le Codex EJS, la réalité est une succession de **niveaux de cohérence**
 Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
 
 
-### 🌳 The Mathematical Forest of Prime Numbers and the "Soup" Concept
+#### 🌳 The Mathematical Forest of Prime Numbers and the "Soup" Concept
 
 **Intellectual Property — Eric Jacob (EJSNews) — 2026**
 
@@ -51,13 +56,13 @@ According to the EJS Codex, reality is a succession of **levels of coherence**:
 **Cosmic Monopoly**
 The Cosmic Monopoly Codex (The Game) proposes a formal substitution of the notion of divinity with the pure logic of prime numbers: fusion, order, and organization are *good*, while fission, destruction, and disorder are *evil*.
 
-### 🕹️ Démonstration jouable / Playable Demonstration
+#### 🕹️ Démonstration jouable / Playable Demonstration
 
 **FR :** 👉 **[Jouer à la démo Prima Lux](PNG_trees/monopoly/prima_lux_logic.html)**
 
 **EN :** 👉 **[Play Prima Lux Demo](PNG_trees/monopoly/prima_lux_logic.html)**
 
-### 📂 Organisation du dépôt / Repository Structure
+#### 📂 Organisation du dépôt / Repository Structure
 
 - `index.html` → Page d’accueil et présentation / Homepage and presentation  
 - `/PNG_trees` → Bibliothèque des cartes, arbres et ersatz visuels / Library of cards, trees and visual ersatz  
@@ -74,7 +79,7 @@ The Cosmic Monopoly Codex (The Game) proposes a formal substitution of the notio
 
 ---
 
-## Intellectual Property / Propriété Intellectuelle
+### Intellectual Property / Propriété Intellectuelle
 
 **© 2026 Eric Jacob — All Rights Reserved**
 
