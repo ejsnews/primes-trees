@@ -3,6 +3,7 @@ layout: default
 title: primes-trees
 description: "Forêt biomathématique (Codex/Atlas) et Prima Lux (Monopoly) — Eric Jacob EJS 2026"
 ---
+
 ## primes-trees
 
 **Part of the Codex EJS Project**
@@ -24,7 +25,7 @@ description: "Forêt biomathématique (Codex/Atlas) et Prima Lux (Monopoly) — 
 
 Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Au cœur de ce travail se trouve une théorie unificatrice permettant de générer des **séquences infinies de nombres premiers** organisées en **branches**, elles-mêmes structurées en **forêts fractales**. Il ne s'agit pas d'une simple suite de chiffres, mais d'une architecture de **récurrences linéaires incluant les nombres complexes** et de **forêts fractales** de nombres premiers. Ces structures produisent les premiers ersatz de matière bien avant le niveau atomique.
 
-[Le Codex/Atlas de la forêt biomathématique ](https://ejsnews.github.io/primes-trees/Quantum%20Codex%20-%20Some%20Biomathematical%20Plants%20and%20Trees)
+[Le Codex/Atlas de la forêt biomathématique ](https://ejsnews.github.io/primes-trees/Quantum%20Codex%20-%20Some%20Biomathematical%20Plants%20and%20Trees.html)
 
 ---
 
