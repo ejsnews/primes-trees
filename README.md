@@ -1,7 +1,3 @@
----
-title: primes-trees
-description: "Forêt biomathématique (Codex/Atlas) et Prima Lux (Monopoly) — Eric Jacob EJS 2026"
----
 
 ## primes-trees
 
