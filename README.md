@@ -26,9 +26,8 @@ Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Au
 
 Selon le Codex EJS, la réalité est une succession de **niveaux de cohérence** :
 
-1. **La Soupe Multi-Échelle :** Le motif de la "soupe" (fluide homogène et informationnel ordonné par le Codex) est récursif. Il se répète de l'échelle de Planck ($10^{-36}$ m) jusqu'aux échelles galactiques ($10^{21}$ m), où les amas forment à leur tour une soupe fluide.
-2. **La Soupe Multi-Échelle :** Le motif de la "soupe" (fluide homogène et informationnel ordonné par le Codex) est récursif. Il se répète de l'échelle de Planck (10<sup>−36</sup> m) jusqu'aux échelles galactiques (10<sup>21</sup> m), où les amas forment à leur tour une soupe fluide.
-3. **Lois Bornées et Décohérence :** Nos lois physiques actuelles sont **bornées** à notre fenêtre d'observation locale (environ $10^{-12}$ à $10^{15}$ m). Au-delà, une **décohérence fractale** apparaît : le système change de palier de propriété dans le cycle universel du "Manège de l'Absolu".
+1. **La Soupe Multi-Échelle :** Le motif de la "soupe" (fluide homogène et informationnel ordonné par le Codex) est récursif. Il se répète de l'échelle de Planck (10<sup>−36</sup> m) jusqu'aux échelles galactiques (10<sup>21</sup> m), où les amas forment à leur tour une soupe fluide.
+2. **Lois Bornées et Décohérence :** Nos lois physiques actuelles sont **bornées** à notre fenêtre d'observation locale (environ 10<sup>-12</sup> à 10<sup>15</sup> m). Au-delà, une **décohérence fractale** apparaît : le système change de palier de propriété dans le cycle universel du "Manège de l'Absolu".
 
 **Monopoly Cosmique**
 Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
@@ -48,7 +47,7 @@ According to the EJS Codex, reality is a succession of **levels of coherence**:
 
 1. **The Multi-Scale Soup:** The "soup" pattern (a homogeneous, informational fluid ordered by the Codex) is recursive. It repeats from the Planck scale ($10^{-36}$ m) to galactic scales ($10^{21}$ m), where clusters in turn form a fluid soup.
 
-2. **Bounded Laws and Decoherence:** Our current physical laws are **bounded** to our local observational window (approximately  $10^{-12}$ to $10^{15}$ m). Beyond this, **fractal decoherence** appears: the system changes its property level in the universal cycle of the "Merry-Go-Round of the Absolute."
+2. **Bounded Laws and Decoherence:** Our current physical laws are **bounded** to our local observational window (approximately  10<sup>-12</sup> to 10<sup>15</sup> m). Beyond this, **fractal decoherence** appears: the system changes its property level in the universal cycle of the "Merry-Go-Round of the Absolute."
 
 **Cosmic Monopoly**
 The Cosmic Monopoly Codex (The Game) proposes a formal substitution of the notion of divinity with the pure logic of prime numbers: fusion, order, and organization are *good*, while fission, destruction, and disorder are *evil*.
