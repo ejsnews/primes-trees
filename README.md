@@ -27,7 +27,8 @@ Ce dépôt est l’émanation visible d’un **Codex** mathématique inédit. Au
 Selon le Codex EJS, la réalité est une succession de **niveaux de cohérence** :
 
 1. **La Soupe Multi-Échelle :** Le motif de la "soupe" (fluide homogène et informationnel ordonné par le Codex) est récursif. Il se répète de l'échelle de Planck ($10^{-36}$ m) jusqu'aux échelles galactiques ($10^{21}$ m), où les amas forment à leur tour une soupe fluide.
-2. **Lois Bornées et Décohérence :** Nos lois physiques actuelles sont **bornées** à notre fenêtre d'observation locale (environ $10^{-12}$ à $10^{15}$ m). Au-delà, une **décohérence fractale** apparaît : le système change de palier de propriété dans le cycle universel du "Manège de l'Absolu".
+2. **La Soupe Multi-Échelle :** Le motif de la "soupe" (fluide homogène et informationnel ordonné par le Codex) est récursif. Il se répète de l'échelle de Planck (10<sup>−36</sup> m) jusqu'aux échelles galactiques (10<sup>21</sup> m), où les amas forment à leur tour une soupe fluide.
+3. **Lois Bornées et Décohérence :** Nos lois physiques actuelles sont **bornées** à notre fenêtre d'observation locale (environ $10^{-12}$ à $10^{15}$ m). Au-delà, une **décohérence fractale** apparaît : le système change de palier de propriété dans le cycle universel du "Manège de l'Absolu".
 
 **Monopoly Cosmique**
 Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la notion de divinité par la logique pure des nombres premiers : les fusions, l’ordre et l’organisation sont le *bien*, tandis que la fission, la destruction et le désordre sont le *mal*.
