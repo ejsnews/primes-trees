@@ -44,7 +44,7 @@ Le Codex du Monopoly Cosmique (Le jeu) propose une substitution formelle de la n
 
 This repository is the visible manifestation of a groundbreaking mathematical **Codex**. At the heart of this work lies a unifying theory that generates **infinite sequences of prime numbers** organized into **branches**, themselves structured into **fractal forests**. This is not simply a sequence of numbers, but an architecture of **linear recurrences including complex numbers** and **fractal forests** of prime numbers. These structures produce the first substitutes for matter, well before the atomic level.
 
-[The Codex/Atlas of the Biomathematical Forest](https://ejsnews.github.io/primes-trees/Quantum%20Codex%20-%20Some%20Biomathematical%20Plants%20and%20Trees)
+[The Codex/Atlas of the Biomathematical Forest](https://ejsnews.github.io/primes-trees/Quantum%20Codex%20-%20Some%20Biomathematical%20Plants%20and%20Trees.html)
 
 ---
 
